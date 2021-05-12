@@ -3,15 +3,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Logo from './Logo.js'
+
 import 'tachyons' ;
-import Href from './Href.js'
-import Info from './Info.js'
+
 
 
 
 ReactDOM.render(
- <App />,
+ <Apple />,
   
   document.getElementById('root')
 );
